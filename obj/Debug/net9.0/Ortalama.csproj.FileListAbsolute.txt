@@ -1,0 +1,14 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\bin\Debug\net9.0\Ortalama.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\bin\Debug\net9.0\Ortalama.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\bin\Debug\net9.0\Ortalama.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\bin\Debug\net9.0\Ortalama.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\bin\Debug\net9.0\Ortalama.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\refint\Ortalama.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\Ortalama.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\odevler\Ortalama\obj\Debug\net9.0\ref\Ortalama.dll
